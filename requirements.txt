@@ -1,6 +1,6 @@
 langchain
 langgraph
 langchain_mcp_adapters
-openai
+langchain_openai
 anthropic
 load_dotenv
